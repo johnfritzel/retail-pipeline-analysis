@@ -1,5 +1,5 @@
 # Retail Sales Data Pipeline and Analysis
-A robust data pipeline for processing and analyzing [Best Buy retail sales data](https://www.kaggle.com/datasets/staykoks/best-buy-sales) from Kaggle, featuring automated data cleaning, validation, database storage, and comprehensive sales analytics.
+A robust data pipeline for processing and analyzing [Best Buy](https://www.kaggle.com/datasets/staykoks/best-buy-sales) retail sales datafrom Kaggle, featuring automated data cleaning, validation, database storage, and comprehensive sales analytics.
 
 &nbsp;
 ## Overview
