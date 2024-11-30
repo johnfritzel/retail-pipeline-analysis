@@ -94,7 +94,7 @@ The script will:
 ### Running the Analysis
 Execute the SQL analysis script in your MySQL environment to generate comprehensive store performance metrics:
 ```
-mysql -u your_user -p your_database < store_analysis.sql
+mysql -u your_user -p your_database < analysis.sql
 ```
 
 ## Output
